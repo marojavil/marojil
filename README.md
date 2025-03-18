@@ -1,10 +1,10 @@
 <h1>¡Hola! Mi nombre es Mauricio Rojas👋</h1>
  <div align="center">
-   <img src="https://giphy.com/gifs/programmer-p4NLw3I4U0idi/giphy.gif" width="100%" height="300"alt="Gif de monitor">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjl4aHhxbzN4bHN2NzI2c2RsN2lpZTg3dDJuNXR0anlhcG41NmpzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="100%" height="300"alt="Gif de monitor">
  </div>
  
  <p align="center">
-   <a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">Vía GIPHY</a>
+   <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjl4aHhxbzN4bHN2NzI2c2RsN2lpZTg3dDJuNXR0anlhcG41NmpzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif">Vía GIPHY</a>
  </p>
  
  <p align="center">
