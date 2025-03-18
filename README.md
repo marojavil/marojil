@@ -18,7 +18,6 @@
  - 👯 Estoy abierto a colaborar en proyectos innovadores que involucren ciencia de datos, Analisis Predictivos y Proyectos de IA.
  - 🤔 Busco oportunidades laborales en el campo del análisis de datos e IA.
  - 💬 Pregúntame sobre Python, SQL, Power BI.
- - 📫 Cómo contactarme: [LinkedIn]([https://www.linkedin.com/in/tu-perfil-linkedin](https://www.linkedin.com/in/mauricio-alberto-rojas-avile/) | 📧 [rojasavilem@gmail.com](mailto:rojasavilem@gmail.com)
  - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/mauricio-alberto-rojas-avile/) | 📧 [rojasavilem@gmail.com](mailto:rojasavilem@gmail.com)
  
  ### 🛠️ Tecnologías y Herramientas
